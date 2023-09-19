@@ -23,6 +23,10 @@ import {
   jobit,
   tripguide,
   threejs,
+  contus,
+  thoughtworks,
+  prov,
+  victoriassecret
 } from "../assets";
 
 export const navLinks = [
@@ -126,7 +130,7 @@ const experiences = [
   {
     title: "Senior iOS Developer",
     company_name: "Victoria's Secret",
-    icon: starbucks,
+    icon: victoriassecret,
     iconBg: "#383E56",
     date: "March 2023 - present",
     points: [
@@ -139,7 +143,7 @@ const experiences = [
   {
     title: "Mobile developer Consultant",
     company_name: "Thoughtworks",
-    icon: tesla,
+    icon: thoughtworks,
     iconBg: "#E6DEDD",
     date: "Aug 2019 - Mar 2023",
     points: [
@@ -153,7 +157,7 @@ const experiences = [
   {
     title: "Mobile App Developer",
     company_name: "ProV",
-    icon: shopify,
+    icon: prov,
     iconBg: "#383E56",
     date: "Aug 2018 - Aug 2019",
     points: [
@@ -167,7 +171,7 @@ const experiences = [
   {
     title: "Application Developer",
     company_name: "Contus",
-    icon: meta,
+    icon: contus,
     iconBg: "#E6DEDD",
     date: "Nov 2016 - Apr 2017",
     points: [

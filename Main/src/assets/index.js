@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import strlogo from "./strlogo.png"
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -30,8 +31,14 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import contus from "./company/contus.jpg";
+import prov from "./company/prov.png";
+import thoughtworks from "./company/thoughtworks.jpeg";
+import victoriassecret from "./company/victoriassecret.png";
+
 export {
   logo,
+  strlogo,
   backend,
   creator,
   mobile,
@@ -59,4 +66,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  contus,
+  thoughtworks,
+  prov,
+  victoriassecret
 };
